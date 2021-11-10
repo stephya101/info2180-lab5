@@ -1,1 +1,41 @@
 /* Add your own styles */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin:0;
+}
+
+body{
+    text-align: center;
+}
+
+header {
+    background-color: lightblue;  
+}
+
+img {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px ;
+    width: 80px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    padding:20px;
+
+  }
+
+  h1 {
+      padding-bottom: 20px;
+  }
+
+  #controls{
+      padding-top: 30px;
+      padding-bottom:30px;
+  }
+
+  
+
